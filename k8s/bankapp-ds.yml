@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: bankapp
-        image: omnagare/megabankapp:v20
+        image: omnagare/megabankapp:v21
         ports:
         - containerPort: 8080
         env:
